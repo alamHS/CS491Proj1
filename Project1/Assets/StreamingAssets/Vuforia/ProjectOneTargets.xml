@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+    <Tracking>
+        <ImageTarget name="Magazine1" size="1024.000000 1294.000000"/>
+        <ImageTarget name="Placemat1" size="1294.000000 1024.000000"/>
+        <ImageTarget name="cerealbox.Top" size="512.000000 256.000000"/>
+        <ImageTarget name="cerealbox.Right" size="256.000000 682.000000"/>
+        <ImageTarget name="cerealbox.Left" size="256.000000 682.000000"/>
+        <ImageTarget name="cerealbox.Bottom" size="512.000000 256.000000"/>
+        <ImageTarget name="cerealbox.Back" size="512.000000 682.000000"/>
+        <ImageTarget name="cerealbox.Front" size="512.000000 682.000000"/>
+        <MultiTarget name="cerealbox">
+            <Part name="cerealbox.Left" translation="-256.0 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cerealbox.Right" translation="256.0 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cerealbox.Front" translation="0 0 128.0" rotation="AD: 1 0 0 0"/>
+            <Part name="cerealbox.Back" translation="0 0 -128.0" rotation="AD: 0 1 0 180"/>
+            <Part name="cerealbox.Top" translation="0 341.0 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="cerealbox.Bottom" translation="0 -341.0 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
+</QCARConfig>
