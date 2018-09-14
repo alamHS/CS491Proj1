@@ -2650,6 +2650,64 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 400004, guid: 027d5fe95f2e5c847836e7cd84f1a67b,
     type: 3}
   m_PrefabInternal: {fileID: 1141681687}
+--- !u!1001 &1208668841
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1821829390}
+    m_Modifications:
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -69
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 164
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 234
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_RootOrder
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.55636
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.55636
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.55636
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_Name
+      value: Lightning Lefthand
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+  m_IsPrefabAsset: 0
 --- !u!21 &1270481064
 Material:
   serializedVersion: 6
@@ -4610,6 +4668,64 @@ Material:
     m_Floats: []
     m_Colors:
     - _Color: {r: 0.82089555, g: 0.82089555, b: 0.82089555, a: 1}
+--- !u!1001 &1987754265
+Prefab:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 1821829390}
+    m_Modifications:
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -801.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 158.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 222.1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_RootOrder
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_Name
+      value: Lightning Righthand
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.55636
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.55636
+      objectReference: {fileID: 0}
+    - target: {fileID: 400002, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.55636
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 1b276c42a4d5bdd47b7400613ab2c558, type: 3}
+  m_IsPrefabAsset: 0
 --- !u!4 &2013300774 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 400048, guid: 75c75e1c612e44013b6c3fd031286068,
