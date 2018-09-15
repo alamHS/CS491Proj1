@@ -1,0 +1,350 @@
+fileFormatVersion: 2
+guid: 08f9a8228aca1934b8a51bd0c0205850
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: default_group
+    100002: default_group 1
+    100004: default_group 2
+    100006: default_group 3
+    100008: default_group 4
+    100010: default_group 5
+    100012: default_group 6
+    100014: default_group 7
+    100016: default_group 8
+    100018: default_group 9
+    100020: DrawCall_201
+    100022: ID104
+    100024: ID110
+    100026: ID116
+    100028: ID122
+    100030: ID135
+    100032: ID148
+    100034: ID154
+    100036: ID160
+    100038: ID166
+    100040: ID172
+    100042: ID178
+    100044: ID18
+    100046: ID184
+    100048: ID190
+    100050: ID196
+    100052: ID202
+    100054: ID208
+    100056: ID214
+    100058: ID222
+    100060: ID228
+    100062: ID234
+    100064: ID240
+    100066: ID246
+    100068: ID252
+    100070: ID258
+    100072: ID264
+    100074: ID270
+    100076: ID278
+    100078: ID284
+    100080: ID329
+    100082: ID351
+    100084: ID373
+    100086: ID379
+    100088: ID387
+    100090: ID40
+    100092: ID48
+    100094: ID54
+    100096: ID60
+    100098: ID82
+    100100: //RootNode
+    100102: skp_camera_Last_Saved_SketchUp_View
+    400000: default_group
+    400002: default_group 1
+    400004: default_group 2
+    400006: default_group 3
+    400008: default_group 4
+    400010: default_group 5
+    400012: default_group 6
+    400014: default_group 7
+    400016: default_group 8
+    400018: default_group 9
+    400020: DrawCall_201
+    400022: ID104
+    400024: ID110
+    400026: ID116
+    400028: ID122
+    400030: ID135
+    400032: ID148
+    400034: ID154
+    400036: ID160
+    400038: ID166
+    400040: ID172
+    400042: ID178
+    400044: ID18
+    400046: ID184
+    400048: ID190
+    400050: ID196
+    400052: ID202
+    400054: ID208
+    400056: ID214
+    400058: ID222
+    400060: ID228
+    400062: ID234
+    400064: ID240
+    400066: ID246
+    400068: ID252
+    400070: ID258
+    400072: ID264
+    400074: ID270
+    400076: ID278
+    400078: ID284
+    400080: ID329
+    400082: ID351
+    400084: ID373
+    400086: ID379
+    400088: ID387
+    400090: ID40
+    400092: ID48
+    400094: ID54
+    400096: ID60
+    400098: ID82
+    400100: //RootNode
+    400102: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: earback1
+    2100002: neck1
+    2100004: material
+    2100006: eye1
+    2100008: black1
+    2100010: yellow1
+    2100012: mouth1
+    2100014: cheek1
+    2100016: ear1
+    2100018: foot1
+    2300000: default_group
+    2300002: default_group 1
+    2300004: default_group 2
+    2300006: default_group 3
+    2300008: default_group 4
+    2300010: default_group 5
+    2300012: default_group 6
+    2300014: default_group 7
+    2300016: default_group 8
+    2300018: default_group 9
+    2300020: ID104
+    2300022: ID110
+    2300024: ID116
+    2300026: ID122
+    2300028: ID135
+    2300030: ID148
+    2300032: ID154
+    2300034: ID160
+    2300036: ID166
+    2300038: ID172
+    2300040: ID178
+    2300042: ID18
+    2300044: ID184
+    2300046: ID190
+    2300048: ID196
+    2300050: ID202
+    2300052: ID208
+    2300054: ID214
+    2300056: ID222
+    2300058: ID228
+    2300060: ID234
+    2300062: ID240
+    2300064: ID246
+    2300066: ID252
+    2300068: ID258
+    2300070: ID264
+    2300072: ID270
+    2300074: ID278
+    2300076: ID284
+    2300078: ID329
+    2300080: ID351
+    2300082: ID373
+    2300084: ID379
+    2300086: ID387
+    2300088: ID40
+    2300090: ID48
+    2300092: ID54
+    2300094: ID60
+    2300096: ID82
+    3300000: default_group
+    3300002: default_group 1
+    3300004: default_group 2
+    3300006: default_group 3
+    3300008: default_group 4
+    3300010: default_group 5
+    3300012: default_group 6
+    3300014: default_group 7
+    3300016: default_group 8
+    3300018: default_group 9
+    3300020: ID104
+    3300022: ID110
+    3300024: ID116
+    3300026: ID122
+    3300028: ID135
+    3300030: ID148
+    3300032: ID154
+    3300034: ID160
+    3300036: ID166
+    3300038: ID172
+    3300040: ID178
+    3300042: ID18
+    3300044: ID184
+    3300046: ID190
+    3300048: ID196
+    3300050: ID202
+    3300052: ID208
+    3300054: ID214
+    3300056: ID222
+    3300058: ID228
+    3300060: ID234
+    3300062: ID240
+    3300064: ID246
+    3300066: ID252
+    3300068: ID258
+    3300070: ID264
+    3300072: ID270
+    3300074: ID278
+    3300076: ID284
+    3300078: ID329
+    3300080: ID351
+    3300082: ID373
+    3300084: ID379
+    3300086: ID387
+    3300088: ID40
+    3300090: ID48
+    3300092: ID54
+    3300094: ID60
+    3300096: ID82
+    4300000: default_group
+    4300002: ID18
+    4300004: default_group
+    4300006: ID40
+    4300008: ID48
+    4300010: ID54
+    4300012: ID60
+    4300014: default_group
+    4300016: ID82
+    4300018: default_group
+    4300020: ID104
+    4300022: ID110
+    4300024: ID116
+    4300026: ID122
+    4300028: default_group
+    4300030: ID135
+    4300032: ID148
+    4300034: ID154
+    4300036: ID160
+    4300038: ID166
+    4300040: ID172
+    4300042: ID178
+    4300044: ID184
+    4300046: ID190
+    4300048: ID196
+    4300050: ID202
+    4300052: ID208
+    4300054: ID214
+    4300056: ID222
+    4300058: ID228
+    4300060: ID234
+    4300062: ID240
+    4300064: ID246
+    4300066: ID252
+    4300068: ID258
+    4300070: ID264
+    4300072: ID270
+    4300074: ID278
+    4300076: ID284
+    4300078: default_group
+    4300080: default_group
+    4300082: default_group
+    4300084: ID329
+    4300086: default_group
+    4300088: ID351
+    4300090: default_group
+    4300092: ID373
+    4300094: ID379
+    4300096: ID387
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
