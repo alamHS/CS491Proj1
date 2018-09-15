@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 010e5337c677e8240aded285fa0e97a3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: cloud_ball
+    100002: cloud_ball 1
+    100004: cloud_ball 10
+    100006: cloud_ball 11
+    100008: cloud_ball 12
+    100010: cloud_ball 13
+    100012: cloud_ball 14
+    100014: cloud_ball 15
+    100016: cloud_ball 16
+    100018: cloud_ball 17
+    100020: cloud_ball 2
+    100022: cloud_ball 3
+    100024: cloud_ball 4
+    100026: cloud_ball 5
+    100028: cloud_ball 6
+    100030: cloud_ball 7
+    100032: cloud_ball 8
+    100034: cloud_ball 9
+    100036: instance_0
+    100038: instance_1
+    100040: instance_10
+    100042: instance_11
+    100044: instance_12
+    100046: instance_13
+    100048: instance_14
+    100050: instance_15
+    100052: instance_16
+    100054: instance_17
+    100056: instance_2
+    100058: instance_3
+    100060: instance_4
+    100062: instance_5
+    100064: instance_6
+    100066: instance_7
+    100068: instance_8
+    100070: instance_9
+    100072: //RootNode
+    100074: skp_camera_Last_Saved_SketchUp_View
+    400000: cloud_ball
+    400002: cloud_ball 1
+    400004: cloud_ball 10
+    400006: cloud_ball 11
+    400008: cloud_ball 12
+    400010: cloud_ball 13
+    400012: cloud_ball 14
+    400014: cloud_ball 15
+    400016: cloud_ball 16
+    400018: cloud_ball 17
+    400020: cloud_ball 2
+    400022: cloud_ball 3
+    400024: cloud_ball 4
+    400026: cloud_ball 5
+    400028: cloud_ball 6
+    400030: cloud_ball 7
+    400032: cloud_ball 8
+    400034: cloud_ball 9
+    400036: instance_0
+    400038: instance_1
+    400040: instance_10
+    400042: instance_11
+    400044: instance_12
+    400046: instance_13
+    400048: instance_14
+    400050: instance_15
+    400052: instance_16
+    400054: instance_17
+    400056: instance_2
+    400058: instance_3
+    400060: instance_4
+    400062: instance_5
+    400064: instance_6
+    400066: instance_7
+    400068: instance_8
+    400070: instance_9
+    400072: //RootNode
+    400074: skp_camera_Last_Saved_SketchUp_View
+    2000000: skp_camera_Last_Saved_SketchUp_View
+    2100000: material
+    2100002: Color_000
+    2300000: cloud_ball
+    2300002: cloud_ball 1
+    2300004: cloud_ball 10
+    2300006: cloud_ball 11
+    2300008: cloud_ball 12
+    2300010: cloud_ball 13
+    2300012: cloud_ball 14
+    2300014: cloud_ball 15
+    2300016: cloud_ball 16
+    2300018: cloud_ball 17
+    2300020: cloud_ball 2
+    2300022: cloud_ball 3
+    2300024: cloud_ball 4
+    2300026: cloud_ball 5
+    2300028: cloud_ball 6
+    2300030: cloud_ball 7
+    2300032: cloud_ball 8
+    2300034: cloud_ball 9
+    3300000: cloud_ball
+    3300002: cloud_ball 1
+    3300004: cloud_ball 10
+    3300006: cloud_ball 11
+    3300008: cloud_ball 12
+    3300010: cloud_ball 13
+    3300012: cloud_ball 14
+    3300014: cloud_ball 15
+    3300016: cloud_ball 16
+    3300018: cloud_ball 17
+    3300020: cloud_ball 2
+    3300022: cloud_ball 3
+    3300024: cloud_ball 4
+    3300026: cloud_ball 5
+    3300028: cloud_ball 6
+    3300030: cloud_ball 7
+    3300032: cloud_ball 8
+    3300034: cloud_ball 9
+    4300000: cloud_ball
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
