@@ -1,6 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
-  <Tracking>
-    <CylinderTarget name="can2" sideLength="7.778000"/>
-  </Tracking>
+<QCARConfig>
+    <Tracking>
+        <CylinderTarget name="can2" sideLength="7.778000"/>
+        <ImageTarget name="Placemat2" size="1024.000000 810.336914"/>
+        <ImageTarget name="Placemat1" size="2.000000 1.582689"/>
+        <ImageTarget name="box2.Top" size="512.000000 256.000000"/>
+        <ImageTarget name="box2.Right" size="256.000000 682.000000"/>
+        <ImageTarget name="box2.Left" size="256.000000 682.000000"/>
+        <ImageTarget name="box2.Bottom" size="512.000000 256.000000"/>
+        <ImageTarget name="box2.Back" size="512.000000 682.000000"/>
+        <ImageTarget name="box2.Front" size="512.000000 682.000000"/>
+        <ImageTarget name="cerealbox.Top" size="512.000000 256.000000"/>
+        <ImageTarget name="cerealbox.Right" size="256.000000 682.000000"/>
+        <ImageTarget name="cerealbox.Left" size="256.000000 682.000000"/>
+        <ImageTarget name="cerealbox.Bottom" size="512.000000 256.000000"/>
+        <ImageTarget name="cerealbox.Back" size="512.000000 682.000000"/>
+        <ImageTarget name="cerealbox.Front" size="512.000000 682.000000"/>
+        <MultiTarget name="box2">
+            <Part name="box2.Left" translation="-256.0 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="box2.Right" translation="256.0 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="box2.Front" translation="0 0 128.0" rotation="AD: 1 0 0 0"/>
+            <Part name="box2.Back" translation="0 0 -128.0" rotation="AD: 0 1 0 180"/>
+            <Part name="box2.Top" translation="0 341.0 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="box2.Bottom" translation="0 -341.0 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+        <MultiTarget name="cerealbox">
+            <Part name="cerealbox.Left" translation="-256.0 0 0" rotation="AD: 0 1 0 -90"/>
+            <Part name="cerealbox.Right" translation="256.0 0 0" rotation="AD: 0 1 0 90"/>
+            <Part name="cerealbox.Front" translation="0 0 128.0" rotation="AD: 1 0 0 0"/>
+            <Part name="cerealbox.Back" translation="0 0 -128.0" rotation="AD: 0 1 0 180"/>
+            <Part name="cerealbox.Top" translation="0 341.0 0" rotation="AD: 1 0 0 -90"/>
+            <Part name="cerealbox.Bottom" translation="0 -341.0 0" rotation="AD: 1 0 0 90"/>
+        </MultiTarget>
+    </Tracking>
 </QCARConfig>
