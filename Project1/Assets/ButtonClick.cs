@@ -10,15 +10,23 @@ public class ButtonClick : MonoBehaviour, IVirtualButtonEventHandler
     public GameObject page1;
     public GameObject page2;
     public GameObject page3;
+
+
+    public AudioSource PIKA;
+    public AudioClip pika;
+
     public int pageToDisplay = -1;
 
     void Start()
     {
+
         turnPage = GameObject.Find("ClickMe");
         turnPage.GetComponent<VirtualButtonBehaviour>().RegisterEventHandler(this);
         //GAME OBject. active thing
         cover = GameObject.Find("Cover");
         cover.SetActive(true);
+
+
 
         page1 = GameObject.Find("Art1");
         page1.SetActive(false);
@@ -35,6 +43,7 @@ public class ButtonClick : MonoBehaviour, IVirtualButtonEventHandler
         Debug.Log("Gotcha");
         cover.SetActive(false);
         page1.SetActive(true);
+        PIKA.Play();
        
 
     }
